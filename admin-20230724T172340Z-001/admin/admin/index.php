@@ -150,9 +150,7 @@ include "activitity.php";
               </div>
             </div>
           </div>
-           <div>
-            hello
-           </div>
+           
             
           
         </div>
